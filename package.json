@@ -41,13 +41,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/SimranNayol-Kiwi/react-native-hold-menu-no-expo",
+  "repository": "https://github.com/hadnet/react-native-hold-menu-no-expo",
   "author": "hadnet <hadnet1@gmail.com> (https://github.com/hadnet)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SimranNayol-Kiwi/react-native-hold-menu-no-expo/issues"
+    "url": "https://github.com/hadnet/react-native-hold-menu-no-expo/issues"
   },
-  "homepage": "https://github.com/SimranNayol-Kiwi/react-native-hold-menu-no-expo#readme",
+  "homepage": "https://github.com/hadnet/react-native-hold-menu-no-expo#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
