@@ -1,5 +1,5 @@
 {
-  "name": "@simran/react-native-hold-menu-no-expo",
+  "name": "@hadnet/react-native-hold-menu-no-expo",
   "version": "0.3.0",
   "description": "A performant, easy to use hold to open context menu for React Native CLI projects powered by Reanimated.",
   "main": "lib/commonjs/index",
